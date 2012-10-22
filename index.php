@@ -26,5 +26,3 @@ $t2 = explode(' ', microtime());
 echo "-- 执行时间 --\n";
 echo round($t2[0]+$t2[1]-$t1[0]-$t1[1], 4)."s\n";
 
-echo "200,x,300|5";
-
