@@ -1,7 +1,7 @@
 <?php
 
 /**
- * 首页测试
+ * 测试首页
  * @author wenbin.wu@foxmail.com
  * @copyright 2012
  */
